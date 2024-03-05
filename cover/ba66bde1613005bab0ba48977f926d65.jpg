@@ -1,0 +1,324 @@
+.margin{
+margin-left:-2em;
+}
+
+.margin1{
+margin-left:1em;
+}
+body
+{
+    font-family: SimSun;
+}
+
+/* Level 1 TOC */
+/* 一级标题 */
+.kindle-cn-toc-level-1 {
+    margin-left: 0em;
+}
+
+/* Level 2 TOC */
+/* 二级标题 */
+.kindle-cn-toc-level-2 {
+    margin-left: 2em;
+}
+
+/* Level 3 TOC */
+/* 三级标题 */
+.kindle-cn-toc-level-3 {
+    margin-left: 2em;
+}
+
+/* Level 4 TOC */
+/* 四级标题 */
+.kindle-cn-toc-level-4 {
+    margin-left: 2em;
+}
+
+/* Level 5 TOC */
+/* 五级标题 */
+.kindle-cn-toc-level-5 {
+    margin-left: 2em;
+}
+
+/* Level 6 TOC */
+/* 六级标题 */
+.kindle-cn-toc-level-6 {
+    margin-left: 2em;
+}
+h1 {
+
+    text-align:center;
+    font-size:1.8em;
+    font-weight:bold;
+    margin: 1em 0em 1em 0em;
+}
+
+h2 {
+
+    text-align:center;
+    text-indent:0em;
+    font-size:1.6em;
+    font-weight:bold;
+    margin: 1em 0em 1em 0em;
+}
+
+
+h3 {
+
+    text-align:center;
+    text-indent:0em;
+    font-size:1.4em;
+    font-weight:bold;
+    margin: 1em 0em 1em 0em;
+}
+h4 {
+
+    text-align:left;
+    text-indent:0em;
+    font-size:1.2em;
+    font-weight:bold;
+    margin: 1em 0em 1em 0em;
+}
+h5 {
+
+    text-align:left;
+    text-indent:1em;
+    font-size:1.0em;
+    font-weight:bold;
+    margin: 1em 0em 1em 0em;
+}
+.block_right1
+{
+    font-size: 0.85em;
+    text-align:right;
+    padding-right:2.0em;
+    margin: 0.5em 0em 0.5em 0em;
+}
+.imz{
+     height:96%;
+     text-align:center;
+    text-indent:0em;
+}
+.front{
+    text-align:center;
+    font-size:1.8em;
+    font-weight:bold;
+    margin: 1em 0em 1em 0em;
+
+}
+.inline{
+	height:1.0em;
+	vertical-align:middele;
+
+}
+
+.note{
+	font-size:0.8em;
+     text-align:left;
+    text-indent:0em;
+}
+
+
+
+.img{
+	text-align:center;
+	font-size:0.9em;
+	font-weight:bold;
+	margin-left:0%;
+                text-indent:0em;
+}
+
+.block{
+    font-size: 0.85em;
+    text-align:justify;
+    text-indent:2.0em;
+    line-height:1.25em;
+    padding-left:2.0em;
+    padding-right:2.0em;
+    margin: 0.5em 0em 0.5em 0em;
+}
+.block1
+{
+    font-size: 0.85em;
+    text-align:justify;
+    color:gray;
+    margin: 0.5em 0em 0.5em 0em;
+}
+
+.block_left
+{
+    font-size: 0.85em;
+    text-align:justify;
+    text-justify:inter-ideograph;
+    line-height:1.25em;
+    padding-left:2.0em;
+    padding-right:2.0em;
+    margin: 0.5em 0em 0.5em 0em;
+}
+.block_right
+{
+    font-size: 0.85em;
+    text-align:right;
+    margin: 0.5em 0em 0.5em 0em;
+}
+.block_center
+{
+    font-size: 0.85em;
+    text-align:center;
+    line-height:1.25em;
+    padding-left:2.0em;
+    padding-right:0.0em;
+    margin: 0.5em 0em 0.5em 0em;
+    text-indent:0em;
+}
+.poem
+{
+    font-size: 1.0em;
+    text-align: left;
+    padding-left:4.0em;
+    padding-right:4.0em;
+}
+
+.kaiti1
+{
+	font-size: 0.85em;
+}
+.sub
+{
+	font-family:"STFangsong";
+}
+
+p
+{
+    font-size: 1.0em;
+    text-align:justify;
+    text-justify:inter-ideograph;
+    text-indent:2.0em;
+    line-height:1.25em;
+    margin: 0.5em 0em 0.5em 0em;
+}
+.cover {
+	width:100%;
+	padding:0px;
+}
+.center
+{
+    font-size: 1.0em;
+    text-align:center;
+    line-height:1.25em;
+    margin: 0.5em 0em 0.5em 0em;
+    text-indent:0em;
+}
+.center2
+{
+    font-size: 1.0em;
+    text-align:center;
+    line-height:1.25em;
+    margin: 0.5em 0em 0.5em 0em;
+    text-indent:0em;
+    font-weight:bold;
+}
+
+.center1 {
+	text-align:center;
+	margin-left:0%;
+	margin-right:0%;
+	font-family:"SimHei";
+	text-indent:0em;
+}
+
+.left1 {
+	text-align:left;
+	margin-left:0%;
+	margin-right:0%;
+	font-family:"SimHei";
+}
+
+.left {
+    font-size: 1.0em;
+    text-align:left;
+    text-indent:0em;
+    line-height:1.25em;
+    margin: 0.5em 0em 0.5em 0em;
+}
+.right
+{
+    font-size: 1.0em;
+    text-align:right;
+    text-indent:2.0em;
+    line-height:1.25em;
+    margin: 0.5em 0em 0.5em 0em;
+}
+.right2 {
+	text-align:right;
+}
+div.blockquote{
+	margin-top:0%;
+	margin-bottom:0%;
+	font-size:1em;
+	text-align:justify;
+	font-family:"STFangsong";
+}
+.u { 
+
+      text-decoration:underline; }
+
+.em_dot {
+  -webkit-text-emphasis-style:dot;
+     -moz-text-emphasis-style:dot;
+      -ms-text-emphasis-style:dot;
+          text-emphasis-style:dot;
+  -webkit-text-emphasis-position:under;
+     -moz-text-emphasis-position:under;
+      -ms-text-emphasis-position:under;
+          text-emphasis-position:under;
+}
+.em_circle {
+  -webkit-text-emphasis-style:circle;
+     -moz-text-emphasis-style:circle;
+      -ms-text-emphasis-style:circle;
+          text-emphasis-style:circle;
+  -webkit-text-emphasis-position:under;
+     -moz-text-emphasis-position:under;
+      -ms-text-emphasis-position:under;
+          text-emphasis-position:under;
+}
+.em_double_circle {
+  -webkit-text-emphasis-style:double-circle;
+     -moz-text-emphasis-style:double-circle;
+      -ms-text-emphasis-style:double-circle;
+          text-emphasis-style:double-circle;
+  -webkit-text-emphasis-position:under;
+     -moz-text-emphasis-position:under;
+      -ms-text-emphasis-position:under;
+          text-emphasis-position:under;
+}
+.em_triangle {
+  -webkit-text-emphasis-style:triangle;
+     -moz-text-emphasis-style:triangle;
+      -ms-text-emphasis-style:triangle;
+          text-emphasis-style:triangle;
+  -webkit-text-emphasis-position:under;
+     -moz-text-emphasis-position:under;
+      -ms-text-emphasis-position:under;
+          text-emphasis-position:under;
+}
+.em_sesame {
+  -webkit-text-emphasis-style:sesame;
+     -moz-text-emphasis-style:sesame;
+      -ms-text-emphasis-style:sesame;
+          text-emphasis-style:sesame;
+  -webkit-text-emphasis-position:under;
+     -moz-text-emphasis-position:under;
+      -ms-text-emphasis-position:under;
+          text-emphasis-position:under;
+}
+.em_underline {
+  text-decoration:underline;
+}
+.em_overline {
+  text-decoration:overline;
+}
+.em_throughline {
+  text-decoration:line-through;
+}
